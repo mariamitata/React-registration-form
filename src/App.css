@@ -1,5 +1,6 @@
 body {
   background: linear-gradient(45deg, #756AB6, #E0AED0);
+  min-height: 100vh;
 }
 .App {
   display: flex;

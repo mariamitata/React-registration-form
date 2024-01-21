@@ -108,3 +108,8 @@ button[disabled] {
   color: #999999;
   /* cursor: not-allowed; */
 }
+.FieldError {
+    color: red;
+    font-size: 1.2rem;
+    margin-top: 0.5rem;
+}
